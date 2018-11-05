@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+environment/buildEnvironmentInclude/org.eclipse.cdt.msvc.exe.debug.297675510/CPATH/delimiter=;
+environment/buildEnvironmentInclude/org.eclipse.cdt.msvc.exe.debug.297675510/CPATH/operation=remove
+environment/buildEnvironmentInclude/org.eclipse.cdt.msvc.exe.debug.297675510/CPLUS_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/org.eclipse.cdt.msvc.exe.debug.297675510/CPLUS_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/org.eclipse.cdt.msvc.exe.debug.297675510/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/org.eclipse.cdt.msvc.exe.debug.297675510/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/org.eclipse.cdt.msvc.exe.debug.297675510/append=true
+environment/buildEnvironmentInclude/org.eclipse.cdt.msvc.exe.debug.297675510/appendContributed=true
+environment/buildEnvironmentLibrary/org.eclipse.cdt.msvc.exe.debug.297675510/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/org.eclipse.cdt.msvc.exe.debug.297675510/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/org.eclipse.cdt.msvc.exe.debug.297675510/append=true
+environment/buildEnvironmentLibrary/org.eclipse.cdt.msvc.exe.debug.297675510/appendContributed=true

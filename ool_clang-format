@@ -1,0 +1,26 @@
+﻿---
+AlignAfterOpenBracket: Align
+AlignConsecutiveAssignments: 'true'
+AlignConsecutiveDeclarations: 'true'
+AlignEscapedNewlinesLeft: 'true'
+AlignOperands: 'true'
+AlignTrailingComments: 'true'
+AllowAllParametersOfDeclarationOnNextLine: 'false'
+AlwaysBreakBeforeMultilineStrings: 'true'
+AlwaysBreakTemplateDeclarations: 'true'
+BinPackArguments: 'false'
+BinPackParameters: 'false'
+BreakBeforeBraces: Allman
+BreakConstructorInitializersBeforeComma: 'true'
+BreakStringLiterals: 'true'
+ColumnLimit: '180'
+ConstructorInitializerAllOnOneLineOrOnePerLine: 'true'
+Cpp11BracedListStyle: 'true'
+ExperimentalAutoDetectBinPacking: 'true'
+IndentCaseLabels: 'true'
+IndentWrappedFunctionNames: 'true'
+PointerAlignment: Left
+TabWidth: '3'
+UseTab: Never
+
+...

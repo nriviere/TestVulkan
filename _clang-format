@@ -1,0 +1,12 @@
+# We'll use defaults from the LLVM style, but with 4 columns indentation.
+BasedOnStyle: Mozilla
+IndentWidth: 3
+
+AlignConsecutiveAssignments : true
+AlignAfterOpenBracket  : Align
+AlignConsecutiveDeclarations  : true
+AlignEscapedNewlines  : true
+AlignTrailingComments  : true
+BreakBeforeBraces  : Allman
+AllowAllParametersOfDeclarationOnNextLine  : false
+ColumnLimit : 180

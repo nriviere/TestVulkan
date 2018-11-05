@@ -1,4 +1,9 @@
 eclipse.preferences.version=1
+environment/project/org.eclipse.cdt.msvc.exe.debug.297675510.1958154271/VK_LAYER_PATH/delimiter=;
+environment/project/org.eclipse.cdt.msvc.exe.debug.297675510.1958154271/VK_LAYER_PATH/operation=append
+environment/project/org.eclipse.cdt.msvc.exe.debug.297675510.1958154271/VK_LAYER_PATH/value=F\:\\Dev\\Vulkan\\1.1.70.1\\Source\\layers
+environment/project/org.eclipse.cdt.msvc.exe.debug.297675510.1958154271/append=true
+environment/project/org.eclipse.cdt.msvc.exe.debug.297675510.1958154271/appendContributed=true
 environment/project/org.eclipse.cdt.msvc.exe.debug.297675510/VK_LAYER_PATH/delimiter=;
 environment/project/org.eclipse.cdt.msvc.exe.debug.297675510/VK_LAYER_PATH/operation=append
 environment/project/org.eclipse.cdt.msvc.exe.debug.297675510/VK_LAYER_PATH/value=F\:\\Dev\\Vulkan\\1.1.70.1\\Source\\layers

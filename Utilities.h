@@ -9,6 +9,7 @@
 #define UTILITIES_H_
 
 #include <iostream>
+#include <optional>
 
 typedef struct SVersionNumber
 {
@@ -33,6 +34,14 @@ typedef struct SVulkanInstanceParameter
    TExtensionParameter extensionParameter;
 
 } TVulkanInstanceParameter;
+
+typedef struct SQueueFamilyIndices
+{
+   std::optional<uint32_t> graphicsFamily;
+
+   bool isComplete() { return graphicsFamily.has_value(); }
+
+} TQueueFamilyIndices;
 
 class Utilities
 {

@@ -10,6 +10,8 @@
 
 #include "Utilities.h"
 #include "VulkanInstance.h"
+#include "VulkanLogicalDevice.h"
+#include "VulkanPhysicalDevice.h"
 #include <iostream>
 #include <vector>
 #include <vulkan/vulkan.h>
@@ -25,12 +27,10 @@ class VulkanRenderer
 
    void cleanup();
 
-   void pickPhysicalDevice();
-   bool isDeviceSuitable(VkPhysicalDevice device);
-
  private:
-   VulkanInstance   instance;
-   VkPhysicalDevice physicalDevice = VK_NULL_HANDLE;
+   VulkanInstance       instance;
+   VulkanPhysicalDevice physicalDevice;
+   VulkanLogicalDevice  logicalDevice;
 };
 
 #endif /* VULKANRENDERER_H_ */
